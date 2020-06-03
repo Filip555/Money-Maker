@@ -1,0 +1,422 @@
+[
+  {
+    "HighInsideBar": 1.01229,
+    "LowInsideBar": 1.00276,
+    "HighMotherInsideBar": 1.02294,
+    "LowMotherInsideBar": 1.00151,
+    "Instrument": {
+      "Symbol": "AUDNZD",
+      "CategoryName": {
+        "Name": "FX",
+        "Id": 1
+      },
+      "ContractSize": 100000,
+      "Currency": "AUD",
+      "Laverage": 5.0,
+      "Precision": 5.0,
+      "Spread": 10.2,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Minor",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 1.00802,
+        "AskPrice": 1.00904
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Buy",
+      "Id": 1
+    }
+  },
+  {
+    "HighInsideBar": 1553.89,
+    "LowInsideBar": 1465.1,
+    "HighMotherInsideBar": 1563.28,
+    "LowMotherInsideBar": 1451.06,
+    "Instrument": {
+      "Symbol": "GOLD",
+      "CategoryName": {
+        "Name": "CMD",
+        "Id": 3
+      },
+      "ContractSize": 100,
+      "Currency": "USD",
+      "Laverage": 5.0,
+      "Precision": 2.0,
+      "Spread": 0.41,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Precious Metals",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 1501.26,
+        "AskPrice": 1501.67
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Sell",
+      "Id": 2
+    }
+  },
+  {
+    "HighInsideBar": 2.03949,
+    "LowInsideBar": 2.00769,
+    "HighMotherInsideBar": 2.05469,
+    "LowMotherInsideBar": 2.00404,
+    "Instrument": {
+      "Symbol": "GBPNZD",
+      "CategoryName": {
+        "Name": "FX",
+        "Id": 1
+      },
+      "ContractSize": 100000,
+      "Currency": "GBP",
+      "Laverage": 5.0,
+      "Precision": 5.0,
+      "Spread": 25.3,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Minor",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 2.03054,
+        "AskPrice": 2.03307
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Buy",
+      "Id": 1
+    }
+  },
+  {
+    "HighInsideBar": 0.57863,
+    "LowInsideBar": 0.56791,
+    "HighMotherInsideBar": 0.57968,
+    "LowMotherInsideBar": 0.5662,
+    "Instrument": {
+      "Symbol": "NZDCHF",
+      "CategoryName": {
+        "Name": "FX",
+        "Id": 1
+      },
+      "ContractSize": 100000,
+      "Currency": "NZD",
+      "Laverage": 5.0,
+      "Precision": 5.0,
+      "Spread": 4.6,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Minor",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 0.56277,
+        "AskPrice": 0.56323
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Sell",
+      "Id": 2
+    }
+  },
+  {
+    "HighInsideBar": 10.9953,
+    "LowInsideBar": 10.8322,
+    "HighMotherInsideBar": 10.9961,
+    "LowMotherInsideBar": 10.7636,
+    "Instrument": {
+      "Symbol": "EURSEK",
+      "CategoryName": {
+        "Name": "FX",
+        "Id": 1
+      },
+      "ContractSize": 100000,
+      "Currency": "EUR",
+      "Laverage": 5.0,
+      "Precision": 4.0,
+      "Spread": 77.0,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Minor",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 11.0211,
+        "AskPrice": 11.0288
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Sell",
+      "Id": 2
+    }
+  },
+  {
+    "HighInsideBar": 7549.71,
+    "LowInsideBar": 6948.46,
+    "HighMotherInsideBar": 7561.48,
+    "LowMotherInsideBar": 6926.52,
+    "Instrument": {
+      "Symbol": "US100",
+      "CategoryName": {
+        "Name": "IND",
+        "Id": 2
+      },
+      "ContractSize": 20,
+      "Currency": "USD",
+      "Laverage": 5.0,
+      "Precision": 2.0,
+      "Spread": 1.0,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Americas",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 7076.66,
+        "AskPrice": 7077.66
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Sell",
+      "Id": 2
+    }
+  },
+  {
+    "HighInsideBar": 2553.8,
+    "LowInsideBar": 2365.0,
+    "HighMotherInsideBar": 2562.0,
+    "LowMotherInsideBar": 2360.8,
+    "Instrument": {
+      "Symbol": "US500",
+      "CategoryName": {
+        "Name": "IND",
+        "Id": 2
+      },
+      "ContractSize": 50,
+      "Currency": "USD",
+      "Laverage": 5.0,
+      "Precision": 1.0,
+      "Spread": 1.7,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Americas",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 2402.0,
+        "AskPrice": 2403.7
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Buy",
+      "Id": 1
+    }
+  },
+  {
+    "HighInsideBar": 112.85,
+    "LowInsideBar": 111.087,
+    "HighMotherInsideBar": 113.034,
+    "LowMotherInsideBar": 111.071,
+    "Instrument": {
+      "Symbol": "CHFJPY",
+      "CategoryName": {
+        "Name": "FX",
+        "Id": 1
+      },
+      "ContractSize": 100000,
+      "Currency": "CHF",
+      "Laverage": 3.33,
+      "Precision": 3.0,
+      "Spread": 7.0,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Minor",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 111.665,
+        "AskPrice": 111.735
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Buy",
+      "Id": 1
+    }
+  },
+  {
+    "HighInsideBar": 1.16496,
+    "LowInsideBar": 1.15598,
+    "HighMotherInsideBar": 1.17464,
+    "LowMotherInsideBar": 1.15396,
+    "Instrument": {
+      "Symbol": "GBPCHF",
+      "CategoryName": {
+        "Name": "FX",
+        "Id": 1
+      },
+      "ContractSize": 100000,
+      "Currency": "GBP",
+      "Laverage": 3.33,
+      "Precision": 5.0,
+      "Spread": 6.7,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Major",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 1.14355,
+        "AskPrice": 1.14422
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Buy",
+      "Id": 1
+    }
+  },
+  {
+    "HighInsideBar": 76.738,
+    "LowInsideBar": 75.288,
+    "HighMotherInsideBar": 77.665,
+    "LowMotherInsideBar": 75.268,
+    "Instrument": {
+      "Symbol": "CADJPY",
+      "CategoryName": {
+        "Name": "FX",
+        "Id": 1
+      },
+      "ContractSize": 100000,
+      "Currency": "CAD",
+      "Laverage": 3.33,
+      "Precision": 3.0,
+      "Spread": 5.7,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Minor",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 74.733,
+        "AskPrice": 74.79
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Buy",
+      "Id": 1
+    }
+  },
+  {
+    "HighInsideBar": 1.85547,
+    "LowInsideBar": 1.83009,
+    "HighMotherInsideBar": 1.8601,
+    "LowMotherInsideBar": 1.81695,
+    "Instrument": {
+      "Symbol": "EURNZD",
+      "CategoryName": {
+        "Name": "FX",
+        "Id": 1
+      },
+      "ContractSize": 100000,
+      "Currency": "EUR",
+      "Laverage": 5.0,
+      "Precision": 5.0,
+      "Spread": 18.8,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Minor",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 1.87196,
+        "AskPrice": 1.87384
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Sell",
+      "Id": 2
+    }
+  },
+  {
+    "HighInsideBar": 0.91402,
+    "LowInsideBar": 0.90643,
+    "HighMotherInsideBar": 0.91483,
+    "LowMotherInsideBar": 0.89838,
+    "Instrument": {
+      "Symbol": "EURGBP",
+      "CategoryName": {
+        "Name": "FX",
+        "Id": 1
+      },
+      "ContractSize": 100000,
+      "Currency": "EUR",
+      "Laverage": 3.33,
+      "Precision": 5.0,
+      "Spread": 3.9,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Major",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 0.92163,
+        "AskPrice": 0.92202
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Sell",
+      "Id": 2
+    }
+  },
+  {
+    "HighInsideBar": 0.85836,
+    "LowInsideBar": 0.8431,
+    "HighMotherInsideBar": 0.86067,
+    "LowMotherInsideBar": 0.84253,
+    "Instrument": {
+      "Symbol": "AUDCAD",
+      "CategoryName": {
+        "Name": "FX",
+        "Id": 1
+      },
+      "ContractSize": 100000,
+      "Currency": "AUD",
+      "Laverage": 5.0,
+      "Precision": 5.0,
+      "Spread": 5.5,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Minor",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 0.84785,
+        "AskPrice": 0.8484
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Buy",
+      "Id": 1
+    }
+  },
+  {
+    "HighInsideBar": 0.85209,
+    "LowInsideBar": 0.83709,
+    "HighMotherInsideBar": 0.8562,
+    "LowMotherInsideBar": 0.83139,
+    "Instrument": {
+      "Symbol": "NZDCAD",
+      "CategoryName": {
+        "Name": "FX",
+        "Id": 1
+      },
+      "ContractSize": 100000,
+      "Currency": "NZD",
+      "Laverage": 5.0,
+      "Precision": 5.0,
+      "Spread": 7.1,
+      "AverageDailyFluctuations": 0.0,
+      "GroupName": "Minor",
+      "Isin": null,
+      "Valuation": {
+        "BidPrice": 0.84066,
+        "AskPrice": 0.84137
+      },
+      "OpenTime": "00:06:00"
+    },
+    "TypeTransaction": {
+      "Name": "Sell",
+      "Id": 2
+    }
+  }
+]

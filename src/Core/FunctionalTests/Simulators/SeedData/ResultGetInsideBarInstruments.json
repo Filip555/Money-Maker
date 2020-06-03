@@ -1,0 +1,762 @@
+[
+  {
+    "Symbol": "EURAUD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "EUR",
+    "Laverage": 5.0,
+    "Precision": 5.0,
+    "Spread": 8.6,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1.85359,
+      "AskPrice": 1.85445
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "AUDNZD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "AUD",
+    "Laverage": 5.0,
+    "Precision": 5.0,
+    "Spread": 11.2,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1.00839,
+      "AskPrice": 1.00951
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "GBPJPY",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "GBP",
+    "Laverage": 3.33,
+    "Precision": 3.0,
+    "Spread": 8.2,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 127.457,
+      "AskPrice": 127.539
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "USDSEK",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "USD",
+    "Laverage": 5.0,
+    "Precision": 4.0,
+    "Spread": 89.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 10.0337,
+      "AskPrice": 10.0426
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "EURJPY",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "EUR",
+    "Laverage": 3.33,
+    "Precision": 3.0,
+    "Spread": 4.1,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 117.649,
+      "AskPrice": 117.69
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "USDJPY",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "USD",
+    "Laverage": 3.33,
+    "Precision": 3.0,
+    "Spread": 2.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 107.619,
+      "AskPrice": 107.639
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "GOLD",
+    "CategoryName": {
+      "Name": "CMD",
+      "Id": 3
+    },
+    "ContractSize": 100,
+    "Currency": "USD",
+    "Laverage": 5.0,
+    "Precision": 2.0,
+    "Spread": 0.96,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Precious Metals",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1497.85,
+      "AskPrice": 1498.81
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "AUDJPY",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "AUD",
+    "Laverage": 5.0,
+    "Precision": 3.0,
+    "Spread": 5.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 63.437,
+      "AskPrice": 63.487
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "GBPCAD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "GBP",
+    "Laverage": 3.33,
+    "Precision": 5.0,
+    "Spread": 5.7,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1.7046,
+      "AskPrice": 1.70517
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "GBPNZD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "GBP",
+    "Laverage": 5.0,
+    "Precision": 5.0,
+    "Spread": 18.6,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 2.0258,
+      "AskPrice": 2.02766
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "AUDCHF",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "AUD",
+    "Laverage": 5.0,
+    "Precision": 5.0,
+    "Spread": 4.8,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 0.56863,
+      "AskPrice": 0.56911
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "NZDUSD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "NZD",
+    "Laverage": 5.0,
+    "Precision": 5.0,
+    "Spread": 4.3,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 0.58414,
+      "AskPrice": 0.58457
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "NZDCHF",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "NZD",
+    "Laverage": 5.0,
+    "Precision": 5.0,
+    "Spread": 4.8,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 0.56355,
+      "AskPrice": 0.56403
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "EURSEK",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "EUR",
+    "Laverage": 5.0,
+    "Precision": 4.0,
+    "Spread": 70.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 10.9687,
+      "AskPrice": 10.9757
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "US100",
+    "CategoryName": {
+      "Name": "IND",
+      "Id": 2
+    },
+    "ContractSize": 20,
+    "Currency": "USD",
+    "Laverage": 5.0,
+    "Precision": 2.0,
+    "Spread": 1.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Americas",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 7076.66,
+      "AskPrice": 7077.66
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "US500",
+    "CategoryName": {
+      "Name": "IND",
+      "Id": 2
+    },
+    "ContractSize": 50,
+    "Currency": "USD",
+    "Laverage": 5.0,
+    "Precision": 1.0,
+    "Spread": 1.7,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Americas",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 2402.0,
+      "AskPrice": 2403.7
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "CHFJPY",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "CHF",
+    "Laverage": 3.33,
+    "Precision": 3.0,
+    "Spread": 7.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 111.54,
+      "AskPrice": 111.61
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "GBPAUD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "GBP",
+    "Laverage": 5.0,
+    "Precision": 5.0,
+    "Spread": 16.1,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 2.00812,
+      "AskPrice": 2.00973
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "GBPCHF",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "GBP",
+    "Laverage": 3.33,
+    "Precision": 5.0,
+    "Spread": 6.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1.14246,
+      "AskPrice": 1.14306
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "EURNOK",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "EUR",
+    "Laverage": 5.0,
+    "Precision": 4.0,
+    "Spread": 45.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 11.668,
+      "AskPrice": 11.6725
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "USDCHF",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "USD",
+    "Laverage": 3.33,
+    "Precision": 5.0,
+    "Spread": 2.9,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 0.96466,
+      "AskPrice": 0.96495
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "CADJPY",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "CAD",
+    "Laverage": 3.33,
+    "Precision": 3.0,
+    "Spread": 5.8,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 74.74,
+      "AskPrice": 74.798
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "GBPUSD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "GBP",
+    "Laverage": 3.33,
+    "Precision": 5.0,
+    "Spread": 2.4,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1.18435,
+      "AskPrice": 1.18459
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "USDNOK",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "USD",
+    "Laverage": 5.0,
+    "Precision": 4.0,
+    "Spread": 43.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 10.6733,
+      "AskPrice": 10.6776
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "EURCHF",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "EUR",
+    "Laverage": 3.33,
+    "Precision": 5.0,
+    "Spread": 3.1,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1.05455,
+      "AskPrice": 1.05486
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "USDIDX",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 1000,
+    "Currency": "USD",
+    "Laverage": 20.0,
+    "Precision": 3.0,
+    "Spread": 19.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 100.57,
+      "AskPrice": 100.589
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "DE30",
+    "CategoryName": {
+      "Name": "IND",
+      "Id": 2
+    },
+    "ContractSize": 25,
+    "Currency": "EUR",
+    "Laverage": 5.0,
+    "Precision": 1.0,
+    "Spread": 3.1,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Europe",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 8443.5,
+      "AskPrice": 8446.6
+    },
+    "OpenTime": "02:16:00"
+  },
+  {
+    "Symbol": "AUDUSD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "AUD",
+    "Laverage": 5.0,
+    "Precision": 5.0,
+    "Spread": 2.3,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 0.58952,
+      "AskPrice": 0.58975
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "W20",
+    "CategoryName": {
+      "Name": "IND",
+      "Id": 2
+    },
+    "ContractSize": 20,
+    "Currency": "PLN",
+    "Laverage": 10.0,
+    "Precision": 1.0,
+    "Spread": 2.8,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Europe",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1381.6,
+      "AskPrice": 1384.4
+    },
+    "OpenTime": "08:46:00"
+  },
+  {
+    "Symbol": "NZDJPY",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "NZD",
+    "Laverage": 5.0,
+    "Precision": 3.0,
+    "Spread": 6.9,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 62.857,
+      "AskPrice": 62.926
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "EURNZD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "EUR",
+    "Laverage": 5.0,
+    "Precision": 5.0,
+    "Spread": 22.2,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1.86965,
+      "AskPrice": 1.87187
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "EURCAD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "EUR",
+    "Laverage": 3.33,
+    "Precision": 5.0,
+    "Spread": 6.7,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1.57324,
+      "AskPrice": 1.57391
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "EURGBP",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "EUR",
+    "Laverage": 3.33,
+    "Precision": 5.0,
+    "Spread": 3.5,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 0.92278,
+      "AskPrice": 0.92313
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "EURUSD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "EUR",
+    "Laverage": 3.33,
+    "Precision": 5.0,
+    "Spread": 1.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1.09313,
+      "AskPrice": 1.09323
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "CADCHF",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "CAD",
+    "Laverage": 3.33,
+    "Precision": 5.0,
+    "Spread": 6.0,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 0.66996,
+      "AskPrice": 0.67056
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "AUDCAD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "AUD",
+    "Laverage": 5.0,
+    "Precision": 5.0,
+    "Spread": 5.1,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 0.84851,
+      "AskPrice": 0.84902
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "USDCAD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "USD",
+    "Laverage": 3.33,
+    "Precision": 5.0,
+    "Spread": 2.9,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Major",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 1.43931,
+      "AskPrice": 1.4396
+    },
+    "OpenTime": "00:06:00"
+  },
+  {
+    "Symbol": "NZDCAD",
+    "CategoryName": {
+      "Name": "FX",
+      "Id": 1
+    },
+    "ContractSize": 100000,
+    "Currency": "NZD",
+    "Laverage": 5.0,
+    "Precision": 5.0,
+    "Spread": 7.2,
+    "AverageDailyFluctuations": 0.0,
+    "GroupName": "Minor",
+    "Isin": null,
+    "Valuation": {
+      "BidPrice": 0.84079,
+      "AskPrice": 0.84151
+    },
+    "OpenTime": "00:06:00"
+  }
+]

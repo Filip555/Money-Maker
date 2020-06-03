@@ -1,0 +1,78 @@
+version: '3.1'
+
+services:
+
+
+  elasticsearch:
+   image: docker.elastic.co/elasticsearch/elasticsearch:6.2.4
+   container_name: elasticsearch
+   ports:
+    - "9200:9200"
+   volumes:
+    - elasticsearch-data:/usr/share/elasticsearch/data
+   networks:
+    - docker-network
+
+  kibana:
+   image: docker.elastic.co/kibana/kibana:6.2.4
+   container_name: kibana
+   ports:
+    - "5601:5601"
+   depends_on:
+    - elasticsearch
+   networks:
+    - docker-network
+
+  background_tasks:
+    image: background_tasks
+    container_name: background_tasks
+    ports:
+      - "61105:61105"
+    build:
+      context: .
+      dockerfile: Core/BackgroundTasks/Dockerfile
+    environment:
+      AccountReal:UserId: ${USER_NAME_REAL}
+      AccountReal:Password: ${PASSWORD_REAL}
+      AccountDemo:UserId": ${USER_NAME_DEMO}
+      AccountDemo:Password: ${PASSWORD_DEMO}
+      Smtp:UserName: ${SMTP_LOGIN}
+      Smtp:Password: ${SMTP_PASSWORD}
+      Smtp:Client: ${SMTP_CLIENT}
+      Smtp:Reciver: ${SMTP_RECIVER}
+      ApiClient: "http://api:61106"
+    depends_on:
+      - elasticsearch
+      - api
+    networks:
+      - docker-network
+
+
+  api:
+    image: api
+    container_name: api
+    ports:
+      - "61106:61106"
+    build:
+      context: .
+      dockerfile: Core/Api/Dockerfile
+    environment:
+      AccountReal:UserId: ${USER_NAME_REAL}
+      AccountReal:Password: ${PASSWORD_REAL}
+      AccountDemo:UserId": ${USER_NAME_DEMO}
+      AccountDemo:Password: ${PASSWORD_DEMO}
+      Smtp:UserName: ${SMTP_LOGIN}
+      Smtp:Password: ${SMTP_PASSWORD}
+      Smtp:Client: ${SMTP_CLIENT}
+      Smtp:Reciver: ${SMTP_RECIVER}
+    depends_on:
+      - elasticsearch
+    networks:
+      - docker-network
+
+networks:
+  docker-network:
+    driver: bridge
+
+volumes:
+  elasticsearch-data:
